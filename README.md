@@ -45,3 +45,5 @@ Technical Details
 Data Modeling: Multi-table relational model optimized using Star Schema principles (DataModelSchema).
 
 DAX Formulas: Dynamic calculations for time intelligence (YoY growth, cumulative sales) and context-aware KPI cards stored in DAXQueries/.
+
+.....
