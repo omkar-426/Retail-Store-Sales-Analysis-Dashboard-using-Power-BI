@@ -51,9 +51,12 @@ DAX Formulas: Dynamic calculations for time intelligence (YoY growth, cumulative
 # Team Contributions:- 
 ## TNS INDIA FOUNDATION (C2TC PROGRAM)
 * Jitesh Janardan Kalekar (UID:- T140200807)
+
 ├── Acquired Dataset and Cleaned the Dataset
 * Pranav Vijay Kadam (UID:- T140200808)
+
 ├── Created Relationships between the datasets and Formulated DAX measures
 * Omkar Pandharinath Umawane (UID:- T140200809)
+
 ├── Created Interactive and Clean Dashboard
 
