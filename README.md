@@ -47,3 +47,11 @@ Data Modeling: Multi-table relational model optimized using Star Schema principl
 DAX Formulas: Dynamic calculations for time intelligence (YoY growth, cumulative sales) and context-aware KPI cards stored in DAXQueries/.
 
 .....
+
+Team Contributions:-
+Jitesh Janardan Kalekar (T140200807)
+├── Acquired Dataset and Cleaned the Dataset
+Pranav Vijay Kadam (T140200808)
+├── Created Relationships between the datasets and Formulated DAX measures
+Omkar Pandharinath Umawane (UID:- T140200809)
+├── Created Interactive and Clean Dashboard
