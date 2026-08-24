@@ -1,4 +1,4 @@
-# 🛍️ Retail Analytics Power BI Dashboard
+# 🛍️ Retail Stores Analytics Power BI Dashboard
 
 An interactive, multi-page Power BI dashboard engineered to analyze retail sales performance, customer purchasing behavior, and category insights. Built with custom DAX calculations, structured data modeling, and modern UI styling.
 
