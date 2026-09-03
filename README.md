@@ -27,6 +27,7 @@ This project translates raw retail transactional data into actionable business i
 📈 Dashboard Architecture
 
 Page 1: 
+
 Executive KPI Overview
 Key Metrics: High-level overview of total sales revenue, order volumes, average order value (AOV), and profit margins.
 
@@ -34,6 +35,7 @@ Trend Analysis: Time-series performance tracking key metrics across monthly and 
 
 
 Page 2:
+
 Category & Product Performance
 Product Segmentation: Visual breakdown of sales by product categories and SKU performance.
 
@@ -41,6 +43,7 @@ Comparative Insights: Visual analysis comparing revenue generation vs. product m
 
 
 Page 3:
+
 Transactional & Detailed Deep Dive
 Granular Tables: Filterable tabular view for operational analysis and transaction-level auditing.
 
