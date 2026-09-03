@@ -16,7 +16,6 @@ This project translates raw retail transactional data into actionable business i
 
 ## 📁 Repository Structure
 
-```text
 ├── DAXQueries/            # Custom DAX queries and measure definitions
 ├── Report/
 │   ├── definition/
@@ -46,8 +45,6 @@ Data Modeling: Multi-table relational model optimized using Star Schema principl
 
 DAX Formulas: Dynamic calculations for time intelligence (YoY growth, cumulative sales) and context-aware KPI cards stored in DAXQueries/.
 
-.....
-```
 # Team Contributions:- 
 ## TNS INDIA FOUNDATION (C2TC PROGRAM)
 * Jitesh Janardan Kalekar (UID:- T140200807)
