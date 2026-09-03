@@ -15,7 +15,7 @@ This project translates raw retail transactional data into actionable business i
 ---
 
 ## 📁 Repository Structure
-
+```
 ├── DAXQueries/            # Custom DAX queries and measure definitions
 ├── Report/
 │   ├── definition/
@@ -23,7 +23,7 @@ This project translates raw retail transactional data into actionable business i
 │   └── StaticResources/   # Theme configs and registered visual assets
 ├── Retail_PBI.pbit        # Power BI project template file
 └── README.md              # Project documentation
-
+```
 📈 Dashboard Architecture
 Page 1: Executive KPI Overview
 Key Metrics: High-level overview of total sales revenue, order volumes, average order value (AOV), and profit margins.
